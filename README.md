@@ -3,6 +3,9 @@
 - It is made using MYMEMORY API Key.
 - Can give the input and output through voice medium as well and is abe to provide users with upto 2000 characters limit.
 - It uses HTML, CSS and Javascript
+
+## Link:
+https://fahadsheik.github.io/Simple-Translator-Tool/
   
 ## Images:
   <img width="960" alt="image" src="https://github.com/fahadsheik/Simple-Translator-Tool/assets/119167516/2342053f-38b9-4bd0-a47e-baef610e3130">
